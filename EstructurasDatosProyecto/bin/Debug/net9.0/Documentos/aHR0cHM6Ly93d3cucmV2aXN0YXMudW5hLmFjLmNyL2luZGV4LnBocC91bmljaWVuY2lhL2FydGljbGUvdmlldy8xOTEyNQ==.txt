@@ -1,0 +1,941 @@
+
+
+
+	
+	
+	
+		Development of competencies: artificial intelligence and machine learning in supervised internships of computer science students
+							| Uniciencia
+			
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+				
+						
+ 
+	Skip to main content
+	Skip to main navigation menu
+		Skip to site footer
+
+
+			
+
+				
+					
+						Open Menu
+					
+										
+																
+							
+						
+										
+				
+
+				
+				
+					
+					
+						
+																				
+								
+				
+					Current
+				
+							
+								
+				
+					Previous issues
+				
+							
+								
+				
+					Indexing
+				
+							
+								
+				
+					About
+				
+									
+																					
+									
+										Uniciencia
+									
+								
+																												
+									
+										Focus and Scope
+									
+								
+																												
+									
+										Process of receiving papers and rejection of the editor (desk rejection)
+									
+								
+																												
+									
+										Estimated times
+									
+								
+																												
+									
+										Peer Review Process
+									
+								
+																												
+									
+										Publication Frequency
+									
+								
+																												
+									
+										Uniciencia Postprint
+									
+								
+																												
+									
+										Open Access Policy
+									
+								
+																												
+									
+										Preservation, interoperability and identification of information
+									
+								
+																												
+									
+										Policy about plagiarism
+									
+								
+																												
+									
+										Policy on use and reuse, self-archiving and post-print
+									
+								
+																												
+									
+										Policy on receiving articles in English
+									
+								
+																												
+									
+										Licence
+									
+								
+																												
+									
+										Sponsors
+									
+								
+																												
+									
+										Journal History
+									
+								
+																		
+							
+								
+				
+					Our team
+				
+									
+																					
+									
+										Editorial Team
+									
+								
+																												
+									
+										Contact
+									
+								
+																		
+							
+								
+				
+					Statistics
+				
+									
+																					
+									
+										Uniciencia Statistics
+									
+								
+																												
+									
+										Index h, i10 and paper citations (Google Scholar)
+									
+								
+																												
+									
+										Other Journal Statistics
+									
+								
+																		
+							
+								
+				
+					Calendar for submissions
+				
+							
+								
+				
+					Register
+				
+							
+			
+
+				
+
+																						
+									
+										
+										Search
+									
+								
+													
+					
+					
+							
+								
+				
+					Register
+				
+							
+								
+				
+					Login
+				
+							
+										
+
+					
+				
+			
+		
+
+						
+			
+				
+
+
+			
+	
+		
+			
+				Home
+			
+			/
+		
+		
+			
+				Archives
+			
+			/
+		
+					
+				
+					Vol. 39 No. 1 (2025): Uniciencia. January-December, 2025
+				
+				/
+			
+				
+			
+									Original scientific papers (evaluated by academic peers)
+							
+		
+	
+
+	
+		  	 
+
+		
+	
+		Development of competencies: artificial intelligence and machine learning in supervised internships of computer science students
+	
+
+	
+	
+		
+
+							
+					Authors
+					
+											
+							
+								Johnny Villalobos-Murillo
+							
+															
+									National University of Costa Rica, Costa Rica																			
+
+
+image/svg+xml
+
+	
+
+	
+	
+		
+		
+		
+		
+		
+			
+		
+	
+
+
+
+																	
+																						
+                                                                        
+																		
+										https://orcid.org/0000-0003-1670-8989
+									
+								
+													
+											
+							
+								Gabriela Garita-González
+							
+															
+									National University of Costa Rica, Costa Rica																			
+
+
+image/svg+xml
+
+	
+
+	
+	
+		
+		
+		
+		
+		
+			
+		
+	
+
+
+
+																	
+																						
+                                                                        
+																		
+										https://orcid.org/0000-0002-7813-2770
+									
+								
+													
+											
+							
+								Byron Jesús Alfaro Ramírez
+							
+															
+									National University of Costa Rica, Costa Rica																			
+
+
+image/svg+xml
+
+	
+
+	
+	
+		
+		
+		
+		
+		
+			
+		
+	
+
+
+
+																	
+																						
+                                                                        
+																		
+										https://orcid.org/0009-0005-3165-0748
+									
+								
+													
+										
+				
+			
+                        										
+                                                                				
+					
+												DOI:
+					
+					
+						
+							https://doi.org/10.15359/ru.39-1.3
+						
+					
+				
+                        
+			                        
+
+
+
+									
+				
+										Keywords:
+				
+				
+											Artificial intelligence, 											machine learning, 											convolution neural networks, 											knowledge, 											Computer Science and Information Technology									
+			
+						
+										
+					Abstract
+					[Objective] The objective of this research focuses on developing competencies in artificial intelligence and machine learning for students wishing to experiment in the creation of machine learning models. [Methodology] The study was conducted in the Digital Image Processing Laboratory of Universidad Nacional de Costa Rica, during the first cycle of 2023 by faculty and students doing their internships. For this exploratory-applied research, a step-by-step methodology was created and used to classify benign and malignant mammograms by developing a machine-learning model. A data set comprised of 118 previously diagnosed mammogram images was used. [Results] Results are divided into two areas. The first area is the systematization of the teaching and learning process based on competencies, learning results, and the rubric to evaluate learning in artificial intelligence, machine learning, and neural networks. The second area involves the products generated by developing the computer application Mammography Classification Model, which integrates a convolution neural network that includes image transformation, creation, and training. [Conclusions] It is concluded that, in the academic field, student-centered learning models can be innovated to strengthen skills that enhance their professional profile. In the medical field, the classification of mammograms is an opportunity to develop competencies in a real environment.
+				
+			
+			
+
+																																	
+										
+					
+						References
+					
+					
+																					Blanco, S., Di Risio, C., Andisco, D., Rojas, R. R. y Rojas, R. M. (abril, 2017). Parámetros mamográficos: compresión, dosis y disconfort. Revista argentina de radiología, 81(2), 100-104. https://dx.doi.org/10.1016Zj.rard.2017.04.006 
+															Casco, G. y Calderón, A. D. (2020). Rúbrica, un camino para evaluar objetivamente el aprendizaje en el aula virtual. Revista Multi-Ensayos, 6(11), 8-12. https://doi.org/10.5377/multiensayos.v6i11.928 
+															Cooke, W., Mo, Z. y Xiang, W. (2023). Guaranteed Quantization Error Computation for Neural Network Model Compression. En 2023 IEEE International Conference on Industrial Technology, ICIT 2023 (Proceedings of the IEEE International Conference on Industrial Tecnology): Vol. 2023. Institute of Electrical and Electronics Engineers Inc. (IEEE). https://doi.org/10.1109/icit58465.2023.10143141 
+															Delgado, L. O., Pino, M. Y., Rodríguez, V., Valladares, M. y Díaz, N. M. (2005). Contribución de los estudios por imágenes en el diagnóstico de cáncer de mama. Revista Finlay, 11(4), 423-435. http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2221-24342021000400423&lng=es&tlng=es 
+															Garita, G., Villalobos, J., Cordero, C. y Cabrera, S. (2021). Referentes internacionales para el rediseño de un plan de estudios: competencias para una carrera en Informática. Uniciencia, 35(1), 169-189. https://doi.org/10.15359/ru.35-1.11 
+															Harika, J., Baleeshwar, P., Navya, K. y Hariharan, S. (2022). A review on artificial intelligence with deep human reasoning. En 2022 International Conference on Applied Artificial Intelligence and Computing, ICAAIC 2022 (Proceedings of the International Conference on Applied Artificial Intelligence and Computing) (pp. 81-85). Institute of Electrical and Electronics Engineers Inc. (IEEE). https://ieeexplore.ieee.org.una.remotexs.co/document/9793310. 
+															Hutson, J., Jeevanjee, T., Graaf, V., Lively, J., Weber, J., Weir, G., Arnone, K., Carnes, G., Vosevich, K., Plate, D., Leary, M. y Edele, S. (2022). Artificial Intelligence and the Disruption of Higher Education: Strategies for Integrations across Disciplines. Creative Education, 13(12), 3953-3980. 10.4236/ce.2022.1312253. 
+															IEEE (Institute of Electrical and Electronics Engineers) (2019). Ethically Aligned Design: A Vision for Prioritizing Human Well-Being with Autonomous and Intelligent Systems, (EAD1e). The IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems. (IEEE). https://standards.ieee.org/content/dam/ieee-standards/standards/web/documents/other/ead1e.pdf 
+															Magomedov, I. A, Khafizova, A. S. y Ketova, F. R. (2024). Artificial intelligence's ability to process images. En P. Stanimorivic y I. Kovalev (Eds.), ITM Web of Conferences: Vol. 59 (pp. 1-5). EDP Sciences. https://doi.org/10.1051/itmconf/20245904009 
+															Mahadevkar, S. V., Khemani, B., Patil, S., Kotecha, K., Vora, D., Abraham, A. y Gabralla, L. A. (2022). A review on Machine Learning Styles in Computer Vision-Techniques and Future Directions. En IEEE Access (pp. 107293-107329). Institute of Electrical and Electronics Engineers Inc. (IEEE). https://doi.org/10.1109/access.2022.3209825 
+															Mian, S. M. y Sushma. (2023). Review of Machine Learning and Artificial Intelligence in Health Care. En 2023 3rd International Conference on Advance Computing and Innovative Technologies in Engineering (ICACITE) (Proceedings of the Advance Computing and Innovate Technologies in Engineering (ICACITE) 2023 3rd International Conference (pp. 202-205). Institute of Electrical and Electronics Engineers Inc. (IEEE). https://ieeexplore.ieee.org.una.remotexs.co/document/10183193/authors#authors. 
+															Netragaonbar, Y. D. (2024) Artificial Intelligence (AI) in Higher Education. En 21st Century Tech Trends: Higher Education (pp. 25-36). Amitesh Publishers & Company Pune. https://www.amiteshpublishers.com/book_details/4 
+															Pamukov, M., Poulkov, V., & Shterev, V. (2020). NSNN algorithm performance with different neural network architectures. In 2020 43rd International Conference on Telecommunications and Signal Processing (TSP) (pp. 280–284). https://doi.org/10.1109/TSP49548.2020.9163469 
+															Rashed, B. M. y Popescu, N. (2021). Machine learning techniques for medical image processing. En 2021 International Conference on e-Health and Bioengineering (EHB) (pp. 1-4). Institute of Electrical and Electronics Engineers Inc. (IEEE). https://ieeexplore.ieee.org.una.remotexs.co/document/9657673 
+															Sardiñas, P. R. (2009). Autoexamen de mama: un importante instrumento de prevención del cáncer de mama en atención primaria de salud. Revista Habanera de Ciencias Médicas, 8(3), 1-10. http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1729-519X2009000300005&lng=es&tlng=es 
+															Shin, D. y Yoo, H. (2020). The heterogeneous deep neural network processor with a non-Von Neumann architecture. Proceedings of the IEEE, 108(8), 1245-1260. https://doi.org/10.1109/jproc.2019.2897076 
+															Suckling, J., Parker, J., Dance, D., Astley, S., Hutt, I., Boggis, C., Ricketts, I., Stamatakis, E., Cerneaz, N., Kok, S., Taylor, P., Betal, D. y Savage, J. (2015). Mammographic Image Analysis Society (MIAS) database v1.21 [Data set]. Apollo-University of Cambridge Repository. https://www.repository.cam.ac.uk/handle/1810/250394 
+															Taylor, C. R., Monga, N., Johnson, C., Hawley, J. R. y Patel, M. (2023) Artificial Intelligence Applications in Breast Imaging: Current Status and Future Directions. Diagnostics, 13, 2041. https://doi.org/10.3390/diagnostics13122041 
+															Tian, J. (2020). The human resources development applications of machine learning in the view of artificial intelligence. En 2020 IEEE 3rd International Conference on Computer and Communication Engineering Technology (CCET) (pp. 39-43). Institute of Electrical and Electronics Engineers Inc. (IEEE). https://doi.org/10.1109/CCET50901.2020.9213113 
+															Tsou, C. (2024). Implementing Artificial Intelligence (AI) in Higher Education: A Narrative Literature Review. ResearchGate, 1-31. https://www.researchgate.net/publication/376553922 
+															UNESCO (United Nations Educational, Scientific and Cultural Organization). (2021). AI and education. Guidance for policymakers. UNESCO. https://doi.org/10.54675/PCSP7350 
+															Volkov, E. y Averkin, A. (2023). Explainable Artificial Intelligence in Medical Image Analysis: State of the Art and Prospects. En 2023 XXVI International Conference on Soft Computing and Measurements (SCM) (pp. 134-137). Institute of Electrical and Electronics Engineers Inc. (IEEE) https://doi.org/10.1109/scm58628.2023.10159033 
+															Yoon, J. H. y Kim, E. K. (2021). Deep Learning-Based Artificial Intelligence for Mammography. Korean journal of radiology National Institutes of Health, 22(8), 1225-1239. 10.3348/kjr.2020.1210 
+																		
+				
+			
+		
+
+		
+
+						
+										
+					
+						Downloads
+					
+					
+													
+								
+	
+													
+
+
+		
+	PDF (Spanish)
+
+	
+							
+													
+								
+	
+													
+
+
+		
+	HTML (Spanish)
+
+	
+							
+													
+								
+	
+													
+
+
+		
+	EPUB (Spanish)
+
+	
+							
+											
+				
+						
+						
+				
+					
+						Published
+					
+					
+																			2025-01-31
+																	
+				
+							
+			
+						
+										
+
+											
+							
+								Issue
+							
+							
+								
+									Vol. 39 No. 1 (2025): Uniciencia. January-December, 2025
+								
+							
+						
+					
+											
+							
+								Section
+							
+							
+								Original scientific papers (evaluated by academic peers)
+							
+						
+					
+									
+			
+																					
+										
+					
+						License
+					
+																										Copyright (c) 2025 Shared by Journal and Authors (CC-BY-NC-ND)
+														This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+																Authors who publish with this journal agree to the following terms:1. Authors guarantee the journal the right to be the first publication of the work as licensed under a Creative Commons Attribution License that allows others to share the work with an acknowledgment of the work's authorship and initial publication in this journal.
+2. Authors can set separate additional agreements for non-exclusive distribution of the version of the work published in the journal (eg, place it in an institutional repository or publish it in a book), with an acknowledgment of its initial publication in this journal.
+3. The authors have declared to hold all permissions to use the resources they provided in the paper (images, tables, among others) and assume full responsibility for damages to third parties. 
+4. The opinions expressed in the paper are the exclusive responsibility of the authors and do not necessarily represent the opinion of the editors or the Universidad Nacional. 
+Uniciencia Journal and all its productions are under  Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Unported.
+There is neither fee for access nor Article Processing Charge (APC)
+				
+			
+			
+
+		
+	
+
+
+
+
+
+    
+        
+              
+    
+        
+       
+       Comentarios (ver términos de uso)
+
+       
+
+       
+
+       
+
+       
+
+    
+    
+
+
+
+
+
+   
+
+
+
+
+
+
+
+	
+						Most read articles by the same author(s)
+
+			
+																													
+													Johnny Villalobos-Murillo,
+													Steven Brenes-Chavarría,
+												
+							Implementation of SQL Symbolic Extensions on Object-Relational Database
+						,
+						
+							Uniciencia: Vol. 29 No. 2 (2015): Uniciencia. Julio - Diciembre, 2015
+						
+					
+																													
+													Gabriela Garita-González,
+													Fulvio Lizano-Madriz,
+												
+							Software Cost Estimation: A Pedagogical Proposal to Teach COCOMO
+						,
+						
+							Uniciencia: Vol. 32 No. 1 (2018): Uniciencia. Enero - Junio, 2018
+						
+					
+																													
+													Gabriela Garita-González,
+													Johnny Villalobos-Murillo,
+													Carmen Cordero-Esquivel,
+													Sandra Cabrera-Alzate,
+												
+							Key international references for the redesign of a curriculum: competences for a Computer Science program
+						,
+						
+							Uniciencia: Vol. 35 No. 1 (2021): Uniciencia. January-June, 2021
+						
+					
+							
+			
+				
+			
+			
+
+
+
+
+	
+
+									
+				
+	
+		Language
+	
+
+	
+		
+							
+					
+						English
+					
+				
+							
+					
+						Español
+					
+				
+					
+	
+
+
+	scopus
+	
+		
+	
+
+
+	Clarivate
+	
+		
+	
+
+
+	
+		Make a Submission
+	
+
+	
+		
+			Make a Submission
+		
+	
+
+
+	enviararticulo
+	
+		How to submit an article
+
+Register (new account)
+Quick Submission Guide
+Rules and guide for authors (English)
+Cover letter for submission of articles and authorization (download and sign)
+Abstract Writing
+Template
+Policy on receiving papers in English
+Calendar of reception of submissions
+Estimated times
+Use of Artificial Intelligence
+
+	
+
+
+	infgeneral
+	
+		General Information
+
+About this Journal
+Editorial Team
+Evaluation Board
+Indexing
+
+	
+
+
+	docsimportantes
+	
+		Top Downloads
+
+Cover letter for submission of articles and authorization
+Rules and guide for authors (English)
+Evaluating articles (English)
+Brief description of the process of receiving, evaluating and publishing articles
+IEEE, Vancouver, MLA and others to APA Converter.
+Examples references
+Template (ITS USE IS MANDATORY)
+Apa 7 Style (Examples)
+Code of Ethics
+Process in OJS.
+Initial review by the editor.
+
+Documents are subject to changes
+	
+
+
+	politicasp
+	
+		Main policies of the Journal 
+
+Code of Ethics
+Open Access Policy
+Policy on receiving papers in English
+Policy about plagiarism
+Self-archiving Policy
+Uniciencia Postprint
+
+	
+
+
+	
+		Developed By
+	
+
+	
+		
+			Open Journal Systems
+		
+	
+
+
+	masestadisticas
+	
+		Statistics of Uniciencia
+
+h-index and citations (Google Scholar)
+Statistics (Google Analytics)
+
+	
+
+
+	volver
+	
+		
+	
+
+
+	Information
+	
+		
+							
+					
+						For Readers
+					
+				
+										
+					
+						For Authors
+					
+				
+										
+					
+						For Librarians
+					
+				
+					
+	
+
+
+	Latest publications
+	
+		
+			
+				
+					
+				
+			
+			
+				
+					
+				
+			
+			
+				
+					
+				
+			
+		
+	
+
+
+			
+			
+
+
+	
+
+	
+
+					
+				
+
+
+
+Director: Yuri Morales López. Institution: Universidad Nacional.https://www.una.ac.cr/Place: Heredia, Costa Rica.
+
+
+Internet Address: http://www.revistas.una.ac.cr/unicienciaEmail: revistauniciencia@una.crPhone: (506) 22773313 Fax (506) 2277-3485
+
+Postal Address: Revista Uniciencia. Facultad de Ciencias Exactas y Naturales. Universidad Nacional. 86-3000. Heredia.Costa Rica.
+
+
+
+			
+		
+		
+			
+				
+			
+		
+	
+
+
+
+
+
+
+
+
+
+

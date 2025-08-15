@@ -1,0 +1,1044 @@
+
+
+
+	
+	
+	
+		Digitization and Preservation of Natural Heritage Supported by Digital Fabrication Technologies
+							| Uniciencia
+			
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+				
+						
+ 
+	Skip to main content
+	Skip to main navigation menu
+		Skip to site footer
+
+
+			
+
+				
+					
+						Open Menu
+					
+										
+																
+							
+						
+										
+				
+
+				
+				
+					
+					
+						
+																				
+								
+				
+					Current
+				
+							
+								
+				
+					Previous issues
+				
+							
+								
+				
+					Indexing
+				
+							
+								
+				
+					About
+				
+									
+																					
+									
+										Uniciencia
+									
+								
+																												
+									
+										Focus and Scope
+									
+								
+																												
+									
+										Process of receiving papers and rejection of the editor (desk rejection)
+									
+								
+																												
+									
+										Estimated times
+									
+								
+																												
+									
+										Peer Review Process
+									
+								
+																												
+									
+										Publication Frequency
+									
+								
+																												
+									
+										Uniciencia Postprint
+									
+								
+																												
+									
+										Open Access Policy
+									
+								
+																												
+									
+										Preservation, interoperability and identification of information
+									
+								
+																												
+									
+										Policy about plagiarism
+									
+								
+																												
+									
+										Policy on use and reuse, self-archiving and post-print
+									
+								
+																												
+									
+										Policy on receiving articles in English
+									
+								
+																												
+									
+										Licence
+									
+								
+																												
+									
+										Sponsors
+									
+								
+																												
+									
+										Journal History
+									
+								
+																		
+							
+								
+				
+					Our team
+				
+									
+																					
+									
+										Editorial Team
+									
+								
+																												
+									
+										Contact
+									
+								
+																		
+							
+								
+				
+					Statistics
+				
+									
+																					
+									
+										Uniciencia Statistics
+									
+								
+																												
+									
+										Index h, i10 and paper citations (Google Scholar)
+									
+								
+																												
+									
+										Other Journal Statistics
+									
+								
+																		
+							
+								
+				
+					Calendar for submissions
+				
+							
+								
+				
+					Register
+				
+							
+			
+
+				
+
+																						
+									
+										
+										Search
+									
+								
+													
+					
+					
+							
+								
+				
+					Register
+				
+							
+								
+				
+					Login
+				
+							
+										
+
+					
+				
+			
+		
+
+						
+			
+				
+
+
+			
+	
+		
+			
+				Home
+			
+			/
+		
+		
+			
+				Archives
+			
+			/
+		
+					
+				
+					Vol. 39 No. 1 (2025): Uniciencia. January-December, 2025
+				
+				/
+			
+				
+			
+									Original scientific papers (evaluated by academic peers)
+							
+		
+	
+
+	
+		  	 
+
+		
+	
+		Digitization and Preservation of Natural Heritage Supported by Digital Fabrication Technologies
+	
+
+	
+	
+		
+
+							
+					Authors
+					
+											
+							
+								Luis David Badilla Oviedo
+							
+															
+									National University of Costa Rica, Costa Rica																			
+
+
+image/svg+xml
+
+	
+
+	
+	
+		
+		
+		
+		
+		
+			
+		
+	
+
+
+
+																	
+																						
+                                                                        
+																		
+										https://orcid.org/0000-0003-0182-7686
+									
+								
+													
+											
+							
+								Judith Cambronero Vega
+							
+															
+									National University of Costa Rica, Costa Rica																			
+
+
+image/svg+xml
+
+	
+
+	
+	
+		
+		
+		
+		
+		
+			
+		
+	
+
+
+
+																	
+																						
+                                                                        
+																		
+										https://orcid.org/0000-0003-0570-6400
+									
+								
+													
+											
+							
+								Valery Sánchez Espinoza
+							
+															
+									Toucan Rescue Ranch, Costa Rica																	
+																						
+                                                                        
+																		
+										https://orcid.org/0009-0002-1557-6224
+									
+								
+													
+											
+							
+								Andrés Sáenz Bräutigam
+							
+															
+									Toucan Rescue Ranch, Costa Rica																	
+																						
+                                                                        
+																		
+										https://orcid.org/0009-0004-4813-702X
+									
+								
+													
+											
+							
+								Santiago García Dobles
+							
+															
+									Toucan Rescue Ranch, Costa Rica																	
+																						
+                                                                        
+																		
+										https://orcid.org/0009-0002-8101-2574
+									
+								
+													
+											
+							
+								Stephanie Valle Cubero
+							
+															
+									Toucan Rescue Ranch, Costa Rica																	
+																						
+                                                                        
+																		
+										https://orcid.org/0009-0005-7171-9957
+									
+								
+													
+										
+				
+			
+                        										
+                                                                				
+					
+												DOI:
+					
+					
+						
+							https://doi.org/10.15359/ru.39-1.1
+						
+					
+				
+                        
+			                        
+
+
+
+									
+				
+										Keywords:
+				
+				
+											photogrammetry, 											3D modeling, 											natural heritage, 											3D scanning, 											osteotechnics									
+			
+						
+										
+					Abstract
+					[Objective] This study aimed to implement 3D image acquisition and postprocessing tools for the natural heritage preservation of a collection of craniums from a zoology museum and a wildlife rescue center.  [Methodology] Samples were prepared following osteotechnics protocols developed at the rescue center. They were then digitized in a darkroom using a metrology-grade 3D scanner. Meshes were optimized for both fabrication and visualization purposes. Subsequently, some of the models were printed at a university makerspace using three different technologies to be measured and analyzed with the metrology capabilities of inspection software; the purpose was to determine which technology provided the most accurate replicas.[Results] The results demonstrated that the three technologies produced high-quality replicas. However, those based on optical processes (SLA and material jetting) generated more accurate physical models, which are of particular interest for scientific fields, such as zooarchaeology, paleontology, biology, and veterinary medicine. These fields could benefit from training and learning experiences supported by these digital asset collections. The models were successfully adapted to be uploaded to a 3D viewer platform, which is compatible with low-cost virtual reality solutions, to implement them in environmental education activities. [Conclusions] The experience demonstrates that photogrammetry and 3D scanning are feasible solutions to preserve high-value samples of scientific and historical interest composed of biological materials exposed to degradation by environmental conditions. It also provides new digital assets to foster outreach and educational activities for universities, museums, and rescue centers.
+ 
+				
+			
+			
+
+																																																						
+										
+					
+						References
+					
+					
+																					Altwal, J., Wilson, C. H., & Griffon, D. J. (2021). Applications of 3‐dimensional printing in small‐animal surgery: A review of current practices. Veterinary Surgery, 51(1), 34-51. https://doi.org/10.1111/vsu.13739 
+															Ardoin, N. M., Bowers, A. W., & Gaillard, E. (2020). Environmental education outcomes for conservation: A systematic review. Biological Conservation, 241, 108224. https://doi.org/10.1016/j.biocon.2019.108224 
+															Barreau, J., Gagnier, A., Gaugne, R., Marchand, G., Gómez, J. M., Gouranton, V., & Crubézy, E. (2022). Use of Different Digitization Methods for the Analysis of Cut Marks on the Oldest Bone Found in Brittany (France). Applied Sciences, 12(3), 1381. https://doi.org/10.3390/app12031381 
+															Carr, A., Nestler, J. H., Vliet, K. A., Brochu, C. A., Murray, C. J. L., & Shirley, M. H. (2021). Use of continuous cranial shape variation in the identification of divergent crocodile species of the genus Mecistops. Journal of Morphology, 282(8), 1219-1232. https://doi.org/10.1002/jmor.21365 
+															Caruso, V., Cummaudo, M., Maderna, E., Cappella, A., Caudullo, G., Scarpulla, V., & Cattaneo, C. (2018). A comparative analysis of microscopic alterations in modern and ancient undecalcified and decalcified dry bones. American Journal of Physical Anthropology, 165(2), 363-369. https://doi.org/10.1002/ajpa.23348 
+															Chan, H. H. L., Siewerdsen, J. H., Vescan, A., Daly, M. J., Prisman, E., & Irish, J. C. (2015). 3D Rapid Prototyping for Otolaryngology—Head and Neck Surgery: Applications in Image-Guidance, Surgical Simulation and Patient-Specific Modeling, PLOS ONE, 10(9). https://doi.org/10.1371/journal.pone.0136370 
+															Chen, S., Pan, Z., Wu, Y., Gu, Z., Li, M., Liang, Z., Zhu, H., Yao, Y., Shui, W., Shen, Z., Zhao, Jun., & Pan, H. (2017). The role of three-dimensional printed models of skull in anatomy education: a randomized controlled trail. Sci Rep, 7, 575. https://doi.org/10.1038/s41598-017-00647-1 
+															Cunningham, J. A. (2021). The use of photogrammetric fossil models in palaeontology education. Evolution: Education and Outreach, 14(1). https://doi.org/10.1186/s12052-020-00140-w 
+															Da Silveira, E. E., Da Silva Lisboa Neto, A. F., Pereira, H. C. S., Ferreira, J. S., dos Santos, A. C., Siviero, F., da Fonseca, R., & Chaves de Assis Neto, A. (2021). Canine skull digitalization and three-dimensional printing as an educational tool for anatomical study. Journal of Veterinary Medical Education, 48(6), 649-655. https://doi.org/10.3138/jvme-2019-0132 
+															Edelmers, E., Kazoka, D., Boločko, K., & Pilmane, M. (2022). Different Techniques of Creating Bone Digital 3D Models from Natural Specimens. Applied System Innovation, 5(4), 85. https://doi.org/10.3390/asi5040085 
+															Eriksen, A. M. H, Nielsen, T. K., Matthiesen, H., Carøe, C., Hansen, L. H., Gregory, J. D., Turner-Walker, G., Collins, M. J., Gilbert, M. T. (2020). Bone biodeterioration—The effect of marine and terrestrial depositional environments on early diagenesis and bone bacterial community. PLoS ONE, 15(10), e0240512. https://doi.org/10.1371/journal.pone.0240512 
+															Garashchenko, Y., Kogan, I., & Rucki, M. (2022). Comparative accuracy analysis of triangulated surface models of a fossil skull digitized with various optic devices. Metrology and Measurement Systems, 29, 37-51. https://doi.org/10.24425/mms.2022.138547 
+															Guareschi, E., Magni, P., & Berry, H. (2023). Potential Issues in the Conservation of Bone and Teeth in Maritime Archaeology. Heritage, 6(2), 779-788. https://doi.org/10.3390/heritage6020042 
+															Keaveney, S., Keogh, C., Gutiérrez, L., & Reynaud, E. (2016). Applications for advanced 3D imaging, modelling, and printing techniques for the biological sciences. In 22nd International Conference on Virtual System & Multimedia (VSMM), Kuala Lumpur, Malaysia, 2016 (pp. 1-8), https://doi.org/10.1109/VSMM.2016.7863157 
+															Kudryavtseva, E., Popov, V., Muller-Kamskii, G., Zakurinova, E., & Kovalev, V. (2020). Advantages of 3D Printing for Gynecology and Obstetrics: Brief Review of Applications, Technologies, and Prospects. In IEEE 10th International Conference Nanomaterials: Applications & Properties (NAP), Sumy, Ukraine, 2020 (pp. 02SAMA09-1-02SAMA09-5), https://doi.org/10.1109/NAP51477.2020.9309602 
+															Luhmann, T., Robson, S., Kyle, S., & Boehm, J. (2013). Close-Range Photogrammetry and 3D Imaging. Walter de Gruyter. https://doi.org/10.1515/9783110302783 
+															Martini, M., Aglianò, M., & Orsini, D. (2021). The educational value, both past and present, of an ancient scientific collection: the collection of anatomical preparations illustrating the various phases of bone development, from the second month of intrauterine life to adulthood. Italian Journal of Anatomy and Embryology, 125(1), 1-9. https://doi.org/10.36253/ijae-12920 
+															Reddy, A., Davuluri, S., & Boyina, D. (2020). 3D Printed Lattice Structures: A Brief Review, In IEEE 10th International Conference Nanomaterials: Applications & Properties (NAP), Sumy, Ukraine, 2020 (pp. 02SAMA10-1-02SAMA10-5), https://doi.org/10.1109/NAP51477.2020.9309680 
+															Salvador, R., & Cunha, C. (2020). Natural history collections and the future legacy of ecological research. Oecologia, 192(3), 641-646. https://doi.org/10.1007/s00442-020-04620-0 
+															Vladinovskis, V. (2020). Review of 3D Printing Technologies and Considerations on Their Use in Orthopedy, 2IEEE 61th International Scientific Conference on Power and Electrical Engineering of Riga Technical University (RTUCON), Riga, Latvia, 2020 (pp. 1-6), https://doi.org/10.1109/RTUCON51174.2020.9316483 
+															Waltenberger, L., Rebay‐Salisbury, K., & Mitteroecker, P. (2021). Three‐dimensional surface scanning methods in osteology: A topographical and geometric morphometric comparison. American Journal of Physical Anthropology, 174(4), 846-858. https://doi.org/10.1002/ajpa.24204 
+															Ye, Z., Jiang, H., Bai, S., Wang, T., Du, Y., Hou, H., Zhang, Y., & Yi, S. (2023). Meta-analyzing the efficacy of 3D printed models in anatomy education. Frontiers in Bioengineering and Biotechnology, 11. https://doi.org/10.3389/fbioe.2023.1117555 
+																		
+				
+			
+		
+
+		
+
+						
+										
+					
+						Downloads
+					
+					
+													
+								
+	
+													
+
+
+		
+	PDF
+
+	
+							
+													
+								
+	
+													
+
+
+		
+	HTML
+
+	
+							
+													
+								
+	
+													
+
+
+		
+	EPUB
+
+	
+							
+											
+				
+						
+						
+				
+					
+						Published
+					
+					
+																			2025-01-31
+																	
+				
+							
+			
+						
+										
+
+											
+							
+								Issue
+							
+							
+								
+									Vol. 39 No. 1 (2025): Uniciencia. January-December, 2025
+								
+							
+						
+					
+											
+							
+								Section
+							
+							
+								Original scientific papers (evaluated by academic peers)
+							
+						
+					
+									
+			
+																					
+										
+					
+						License
+					
+																										Copyright (c) 2025 Shared by Journal and Authors (CC-BY-NC-ND)
+														This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+																Authors who publish with this journal agree to the following terms:1. Authors guarantee the journal the right to be the first publication of the work as licensed under a Creative Commons Attribution License that allows others to share the work with an acknowledgment of the work's authorship and initial publication in this journal.
+2. Authors can set separate additional agreements for non-exclusive distribution of the version of the work published in the journal (eg, place it in an institutional repository or publish it in a book), with an acknowledgment of its initial publication in this journal.
+3. The authors have declared to hold all permissions to use the resources they provided in the paper (images, tables, among others) and assume full responsibility for damages to third parties. 
+4. The opinions expressed in the paper are the exclusive responsibility of the authors and do not necessarily represent the opinion of the editors or the Universidad Nacional. 
+Uniciencia Journal and all its productions are under  Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Unported.
+There is neither fee for access nor Article Processing Charge (APC)
+				
+			
+			
+
+		
+	
+
+
+
+
+
+    
+        
+              
+    
+        
+       
+       Comentarios (ver términos de uso)
+
+       
+
+       
+
+       
+
+       
+
+    
+    
+
+
+
+
+
+   
+
+
+
+
+
+
+
+	
+						Most read articles by the same author(s)
+
+			
+																													
+													José Pereira-Chaves,
+												
+							A look of the contributions of the methodological strategies in learning biology
+						,
+						
+							Uniciencia: Vol. 29 No. 2 (2015): Uniciencia. Julio - Diciembre, 2015
+						
+					
+																													
+													Edwin Chaves-Esquivel,
+													Marianela Alpízar-Vargas,
+													Ana-Lucía Alfaro-Arce,
+												
+							Perceptions of In-Service Elementary School Teachers towards Mathematics and its Teaching Regarding the Official Programs of the Ministry of Public Education
+						,
+						
+							Uniciencia: Vol. 30 No. 1 (2016): Uniciencia. Enero - Junio, 2016
+						
+					
+																													
+													Cristian Alfaro-Carvajal,
+													Jennifer Fonseca-Castro,
+												
+							The conceptual fields theory and its role in Mathematics Education
+						,
+						
+							Uniciencia: Vol. 30 No. 1 (2016): Uniciencia. Enero - Junio, 2016
+						
+					
+																													
+													Tatiana Vásquez Morera,
+													Rosa Alfaro Solís,
+													José Pablo Sibaja Brenes,
+													Germain Esquivel Hernández,
+													Juan Valdés González,
+												
+							Chemical composition of rain and fog water collected in the Monteverde biological reserve
+						,
+						
+							Uniciencia: Vol. 26 No. 1-2 (2012)
+						
+					
+																													
+													Gilberto Vargas Vargas,
+													Ronny Gamboa Araya,
+												
+							The Van Hiele model and the teaching of the geometry
+						,
+						
+							Uniciencia: Vol. 27 No. 1 (2013)
+						
+					
+																													
+													Enrique Vílchez-Quesada,
+												
+							Solving recurrence relations supported by Wolfram Mathematica
+						,
+						
+							Uniciencia: Vol. 29 No. 1 (2015): Uniciencia. Enero - Junio, 2015
+						
+					
+																													
+													Ritma Giordana Murillo Castillo,
+													Gilberto Piedra Marín,
+													Ramón G. León,
+												
+							Nutrient uptake by leaf
+						,
+						
+							Uniciencia: Vol. 27 No. 1 (2013)
+						
+					
+																													
+													Mario Castillo-Sánchez,
+													Jesennia-Ma. Chavarría-Vásquez,
+													Marcela García-Borbón,
+												
+							Academic performance in the high school mathematics standardized test at metropolitan and remote areas of Costa Rica schools in 2013
+						,
+						
+							Uniciencia: Vol. 30 No. 1 (2016): Uniciencia. Enero - Junio, 2016
+						
+					
+																													
+													Johan Espinoza-González,
+													Jose-Luis Lupiáñez-Gómez,
+													Isidoro Segovia-Alex,
+												
+							A scheme to analyses the statements of the student in context of problem posing
+						,
+						
+							Uniciencia: Vol. 29 No. 1 (2015): Uniciencia. Enero - Junio, 2015
+						
+					
+																													
+													Fabián Chavarría-Solera,
+													Óscar Mario Molina-León,
+													Rebeca Gamboa-Venegas,
+													Jeison Rodríguez-Flores,
+												
+							Measurement of Carbon Footprint at National University of Costa Rica for 2012-2014. Heading for Carbon Neutrality
+						,
+						
+							Uniciencia: Vol. 30 No. 2 (2016): Uniciencia. Julio - Diciembre, 2016
+						
+					
+							
+			
+				1 2 3 4 5 6 7 8 9 10 > >> 
+			
+			
+
+
+
+
+	
+
+									
+				
+	
+		Language
+	
+
+	
+		
+							
+					
+						English
+					
+				
+							
+					
+						Español
+					
+				
+					
+	
+
+
+	scopus
+	
+		
+	
+
+
+	Clarivate
+	
+		
+	
+
+
+	
+		Make a Submission
+	
+
+	
+		
+			Make a Submission
+		
+	
+
+
+	enviararticulo
+	
+		How to submit an article
+
+Register (new account)
+Quick Submission Guide
+Rules and guide for authors (English)
+Cover letter for submission of articles and authorization (download and sign)
+Abstract Writing
+Template
+Policy on receiving papers in English
+Calendar of reception of submissions
+Estimated times
+Use of Artificial Intelligence
+
+	
+
+
+	infgeneral
+	
+		General Information
+
+About this Journal
+Editorial Team
+Evaluation Board
+Indexing
+
+	
+
+
+	docsimportantes
+	
+		Top Downloads
+
+Cover letter for submission of articles and authorization
+Rules and guide for authors (English)
+Evaluating articles (English)
+Brief description of the process of receiving, evaluating and publishing articles
+IEEE, Vancouver, MLA and others to APA Converter.
+Examples references
+Template (ITS USE IS MANDATORY)
+Apa 7 Style (Examples)
+Code of Ethics
+Process in OJS.
+Initial review by the editor.
+
+Documents are subject to changes
+	
+
+
+	politicasp
+	
+		Main policies of the Journal 
+
+Code of Ethics
+Open Access Policy
+Policy on receiving papers in English
+Policy about plagiarism
+Self-archiving Policy
+Uniciencia Postprint
+
+	
+
+
+	
+		Developed By
+	
+
+	
+		
+			Open Journal Systems
+		
+	
+
+
+	masestadisticas
+	
+		Statistics of Uniciencia
+
+h-index and citations (Google Scholar)
+Statistics (Google Analytics)
+
+	
+
+
+	volver
+	
+		
+	
+
+
+	Information
+	
+		
+							
+					
+						For Readers
+					
+				
+										
+					
+						For Authors
+					
+				
+										
+					
+						For Librarians
+					
+				
+					
+	
+
+
+	Latest publications
+	
+		
+			
+				
+					
+				
+			
+			
+				
+					
+				
+			
+			
+				
+					
+				
+			
+		
+	
+
+
+			
+			
+
+
+	
+
+	
+
+					
+				
+
+
+
+Director: Yuri Morales López. Institution: Universidad Nacional.https://www.una.ac.cr/Place: Heredia, Costa Rica.
+
+
+Internet Address: http://www.revistas.una.ac.cr/unicienciaEmail: revistauniciencia@una.crPhone: (506) 22773313 Fax (506) 2277-3485
+
+Postal Address: Revista Uniciencia. Facultad de Ciencias Exactas y Naturales. Universidad Nacional. 86-3000. Heredia.Costa Rica.
+
+
+
+			
+		
+		
+			
+				
+			
+		
+	
+
+
+
+
+
+
+
+
+
+

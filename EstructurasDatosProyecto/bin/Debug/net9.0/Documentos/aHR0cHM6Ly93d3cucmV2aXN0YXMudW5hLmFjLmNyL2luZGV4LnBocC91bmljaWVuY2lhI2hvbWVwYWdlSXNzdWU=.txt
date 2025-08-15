@@ -1,0 +1,896 @@
+
+
+
+	
+	
+	
+		Uniciencia
+					
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+				
+						
+ 
+	Skip to main content
+	Skip to main navigation menu
+										Skip to the current issue
+				Skip to site footer
+
+
+			
+
+				
+					
+						Open Menu
+					
+											
+															Uniciencia
+													
+										
+																
+							
+						
+										
+				
+
+				
+				
+					
+					
+						
+																				
+								
+				
+					Current
+				
+							
+								
+				
+					Previous issues
+				
+							
+								
+				
+					Indexing
+				
+							
+								
+				
+					About
+				
+									
+																					
+									
+										Uniciencia
+									
+								
+																												
+									
+										Focus and Scope
+									
+								
+																												
+									
+										Process of receiving papers and rejection of the editor (desk rejection)
+									
+								
+																												
+									
+										Estimated times
+									
+								
+																												
+									
+										Peer Review Process
+									
+								
+																												
+									
+										Publication Frequency
+									
+								
+																												
+									
+										Uniciencia Postprint
+									
+								
+																												
+									
+										Open Access Policy
+									
+								
+																												
+									
+										Preservation, interoperability and identification of information
+									
+								
+																												
+									
+										Policy about plagiarism
+									
+								
+																												
+									
+										Policy on use and reuse, self-archiving and post-print
+									
+								
+																												
+									
+										Policy on receiving articles in English
+									
+								
+																												
+									
+										Licence
+									
+								
+																												
+									
+										Sponsors
+									
+								
+																												
+									
+										Journal History
+									
+								
+																		
+							
+								
+				
+					Our team
+				
+									
+																					
+									
+										Editorial Team
+									
+								
+																												
+									
+										Contact
+									
+								
+																		
+							
+								
+				
+					Statistics
+				
+									
+																					
+									
+										Uniciencia Statistics
+									
+								
+																												
+									
+										Index h, i10 and paper citations (Google Scholar)
+									
+								
+																												
+									
+										Other Journal Statistics
+									
+								
+																		
+							
+								
+				
+					Calendar for submissions
+				
+							
+								
+				
+					Register
+				
+							
+			
+
+				
+
+																						
+									
+										
+										Search
+									
+								
+													
+					
+					
+							
+								
+				
+					Register
+				
+							
+								
+				
+					Login
+				
+							
+										
+
+					
+				
+			
+		
+
+						
+			
+				
+
+
+
+	
+
+	
+		
+
+                                                                        
+              EISSN: 2215-3470
+        
+                                
+                        There are no access or Article Processing Charges (APC). News: Authors please read our calendar for receiving submissions.
+
+EISSN: 2215-3470
+Uniciencia is an indexed scientific journal from the School of Natural and Applied Sciences at Universidad Nacional in Costa Rica (Editorial EUNA). The Journal’s main objective is to share research findings and provide high quality research papers to the national and international community, encouraging the scientific and cultural development of our society. Publication from 2022 onwards is in continuous mode and starting in 2023, the use of preprint is mandatory.
+The target audience involves researchers, academics and specialists from the public and private sectors in the areas of the journal. Areas of interest (thematic coverage) include the exact and natural sciences: Biology, Physics, Computer Science, Mathematics, Chemistry, Topography and Geodesy.  The themes that cut across all areas are :
+Theme 1: Management and sustainability of territory and natural resources.Theme 2: Scientific and technological development and applications. Theme 3: Society and human and integral development. Theme 4: Risk management and vulnerability reduction.Theme 5: Science, mathematics and technology education. 
+Papers are original and scientific in nature. The Journal welcomes a variety of research studies: experimental, descriptive, analytical or inferential, correlational, observational, action-research, or case studies, analyzed by quantitative or qualitative techniques or a combination of both (The IMRAD structure or the structure suggested in the journal template should be used). Papers from systematic literature reviews will also be evaluated(1) (2). No essays, non-systematic literature reviews, discussions, dissertations, educational proposals or technical notes are published.
+Original proposals will be evaluated by academic peers who will be external specialists in the given area, using a Single-blind peer review. The arbitration and evaluation procedures are described in the document entitled Brief description of the process of receiving, evaluating and publishing articles, available in the top downloads section, on the right bar of this website.
+Support on the sending of articles:
+
+Read the calendar of reception of submissions and estimated times for publication.
+Read the Rules and guide for authors carefully.
+The preprint is mandatory (The use of the Uniciencia template is suggested).
+In any case, instructions on paper length and APA formatting are mandatory.
+Read and sign the Letter of Submission of articles, with all the information requested.
+Read the policy for articles written in English (Policy on receiving papers in English).
+Read the code of ethics.
+Read the about the Use of Artificial Intelligence.
+
+You can read our quick submission guide to speed up your submission.
+                
+              
+
+		
+				
+			
+			
+				Current Issue
+			
+			
+				Vol. 39 No. 1 (2025): Uniciencia. January-December, 2025
+			
+				
+
+		
+		
+
+						
+				
+				
+						
+							
+				
+					Published:
+				
+				
+					2025-01-01
+				
+			
+			
+
+		
+		
+			
+									
+					Original scientific papers (evaluated by academic peers)
+				
+						
+									
+						
+
+	
+
+	
+	
+		
+			Digitization and Preservation of Natural Heritage Supported by Digital Fabrication Technologies
+								
+	
+
+				
+				
+			Luis David Badilla Oviedo, Judith Cambronero Vega, Valery Sánchez Espinoza, Andrés Sáenz Bräutigam, Santiago García Dobles, Stephanie Valle Cubero (Author)
+		
+		
+							1-16
+		
+		
+	
+	
+			
+																									
+																															
+	
+													
+
+
+		
+	PDF
+
+	
+				
+																									
+																															
+	
+													
+
+
+		
+	HTML
+
+	
+				
+																									
+																															
+	
+													
+
+
+		
+	EPUB
+
+	
+				
+					
+	
+	
+    
+                DOI:
+    
+    
+        https://doi.org/10.15359/ru.39-1.1
+    
+
+
+
+
+
+					
+									
+						
+
+	
+
+	
+	
+		
+			Evaluation of the development of infective structures and the effect of Beauveria bassiana on the growth of tomato seedlings (Solanum lycopersicum) under high-temperature conditions
+								
+	
+
+				
+				
+			Estefani Mariel Villalobos-Álvarez, Ruth Castro-Vásquez, Luis Vega-Corrales, Junior Pastor Pérez-Molina (Author)
+		
+		
+							1-15
+		
+		
+	
+	
+			
+																									
+																															
+	
+													
+
+
+		
+	PDF (Spanish)
+
+	
+				
+																									
+																															
+	
+													
+
+
+		
+	HTML (Spanish)
+
+	
+				
+																									
+																															
+	
+													
+
+
+		
+	EPUB (Spanish)
+
+	
+				
+					
+	
+	
+    
+                DOI:
+    
+    
+        https://doi.org/10.15359/ru.39-1.2
+    
+
+
+
+
+
+					
+									
+						
+
+	
+
+	
+	
+		
+			Development of competencies: artificial intelligence and machine learning in supervised internships of computer science students
+								
+	
+
+				
+				
+			Johnny Villalobos-Murillo, Gabriela Garita-González, Byron Jesús Alfaro Ramírez (Author)
+		
+		
+							1-19
+		
+		
+	
+	
+			
+																									
+																															
+	
+													
+
+
+		
+	PDF (Spanish)
+
+	
+				
+																									
+																															
+	
+													
+
+
+		
+	HTML (Spanish)
+
+	
+				
+																									
+																															
+	
+													
+
+
+		
+	EPUB (Spanish)
+
+	
+				
+					
+	
+	
+    
+                DOI:
+    
+    
+        https://doi.org/10.15359/ru.39-1.3
+    
+
+
+
+
+
+					
+									
+						
+
+	
+
+	
+	
+		
+			First bioprospecting of the neotropical species Favolus rugulosus for potential use in the food industry
+								
+	
+
+				
+				
+			Brenda Veloso-Paredes, Michelle Campi-Gaona, Yanine Maubet-Cano, Claudia Mancuello-Chaparro, Enzo Cristaldo-Centurión, Francisco Ferreira-Benitez (Author)
+		
+		
+							1-16
+		
+		
+	
+	
+			
+																									
+																															
+	
+													
+
+
+		
+	PDF (Spanish)
+
+	
+				
+																									
+																															
+	
+													
+
+
+		
+	HTML (Spanish)
+
+	
+				
+																									
+																															
+	
+													
+
+
+		
+	EPUB (Spanish)
+
+	
+				
+					
+	
+	
+    
+                DOI:
+    
+    
+        https://doi.org/10.15359/ru.39-1.4
+    
+
+
+
+
+
+					
+									
+						
+
+	
+
+	
+	
+		
+			Do environmental competences in climate risk management make second-cycle students at Excelencia Cahuita Elementary School in Limón more resilient?
+								
+	
+
+				
+				
+			Jeannette Arauz -Muñoz, Cristian Moreira Segura, Gustavo Barrantes Castillo, Claudia Charpentier Esquivel (Author)
+		
+		
+							1-31
+		
+		
+	
+	
+			
+																									
+																															
+	
+													
+
+
+		
+	PDF (Spanish)
+
+	
+				
+																									
+																															
+	
+													
+
+
+		
+	HTML (Spanish)
+
+	
+				
+																									
+																															
+	
+													
+
+
+		
+	EPUB (Spanish)
+
+	
+				
+					
+	
+	
+    
+                DOI:
+    
+    
+        https://doi.org/10.15359/ru.39-1.5
+    
+
+
+
+
+
+					
+							
+				
+		
+
+			
+				View All Issues
+			
+		
+	
+
+
+	
+
+									
+				
+	
+		Language
+	
+
+	
+		
+							
+					
+						English
+					
+				
+							
+					
+						Español
+					
+				
+					
+	
+
+
+	scopus
+	
+		
+	
+
+
+	Clarivate
+	
+		
+	
+
+
+	
+		Make a Submission
+	
+
+	
+		
+			Make a Submission
+		
+	
+
+
+	enviararticulo
+	
+		How to submit an article
+
+Register (new account)
+Quick Submission Guide
+Rules and guide for authors (English)
+Cover letter for submission of articles and authorization (download and sign)
+Abstract Writing
+Template
+Policy on receiving papers in English
+Calendar of reception of submissions
+Estimated times
+Use of Artificial Intelligence
+
+	
+
+
+	infgeneral
+	
+		General Information
+
+About this Journal
+Editorial Team
+Evaluation Board
+Indexing
+
+	
+
+
+	docsimportantes
+	
+		Top Downloads
+
+Cover letter for submission of articles and authorization
+Rules and guide for authors (English)
+Evaluating articles (English)
+Brief description of the process of receiving, evaluating and publishing articles
+IEEE, Vancouver, MLA and others to APA Converter.
+Examples references
+Template (ITS USE IS MANDATORY)
+Apa 7 Style (Examples)
+Code of Ethics
+Process in OJS.
+Initial review by the editor.
+
+Documents are subject to changes
+	
+
+
+	politicasp
+	
+		Main policies of the Journal 
+
+Code of Ethics
+Open Access Policy
+Policy on receiving papers in English
+Policy about plagiarism
+Self-archiving Policy
+Uniciencia Postprint
+
+	
+
+
+	
+		Developed By
+	
+
+	
+		
+			Open Journal Systems
+		
+	
+
+
+	masestadisticas
+	
+		Statistics of Uniciencia
+
+h-index and citations (Google Scholar)
+Statistics (Google Analytics)
+
+	
+
+
+	volver
+	
+		
+	
+
+
+	Information
+	
+		
+							
+					
+						For Readers
+					
+				
+										
+					
+						For Authors
+					
+				
+										
+					
+						For Librarians
+					
+				
+					
+	
+
+
+	Latest publications
+	
+		
+			
+				
+					
+				
+			
+			
+				
+					
+				
+			
+			
+				
+					
+				
+			
+		
+	
+
+
+			
+			
+
+
+	
+
+	
+
+					
+				
+
+
+
+Director: Yuri Morales López. Institution: Universidad Nacional.https://www.una.ac.cr/Place: Heredia, Costa Rica.
+
+
+Internet Address: http://www.revistas.una.ac.cr/unicienciaEmail: revistauniciencia@una.crPhone: (506) 22773313 Fax (506) 2277-3485
+
+Postal Address: Revista Uniciencia. Facultad de Ciencias Exactas y Naturales. Universidad Nacional. 86-3000. Heredia.Costa Rica.
+
+
+
+			
+		
+		
+			
+				
+			
+		
+	
+
+
+
+
+
+
+
+
+

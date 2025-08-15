@@ -5,7 +5,11 @@ public class StopWords
     private static readonly HashSet<string> _stopWords = new HashSet<string>
     {
         "el", "la", "los", "las", "de", "y", "que", "a", "en", "un", "una", "por", "con", 
-        "no", "es", "al", "lo", "se", "del", "como", "su", "para", "más", "o", "pero"
+        "no", "es", "al", "lo", "se", "del", "como", "su", "para", "más", "o", "pero","algo","todos", 
+        "si", "ya", "este", "esta", "son", "fue", "ha", "sus", "le", "mi", "porque", "cuando", "muy", 
+        "sin", "sobre", "también", "me", "hasta", "hay", "donde","mientras","quien","cual","cuales","quienes",
+        "nos", "ni", "tiene", "tienen", "uno", "dos", "tres", "años", "entre", "ese", "esa", "esos",
+        "esas", "otra", "otras", "ese", "eso", "estos", "estas", "año", "día", "días", "mes", "meses",
     };
 
     public static bool IsStopword(string word)

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RuizM\\Desktop\\Ingenieria en Sistemas\\II Semestre 2025\\Estructuras de datos\\Proyecto1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D660BE-9B73-4891-9D35-9277BCEC69B9}|EstructurasDatosProyecto\\EstructurasDatosProyecto.csproj|c:\\users\\ruizm\\desktop\\ingenieria en sistemas\\ii semestre 2025\\estructuras de datos\\proyecto1\\estructurasdatosproyecto\\search\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D660BE-9B73-4891-9D35-9277BCEC69B9}|EstructurasDatosProyecto\\EstructurasDatosProyecto.csproj|solutionrelative:estructurasdatosproyecto\\search\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D660BE-9B73-4891-9D35-9277BCEC69B9}|EstructurasDatosProyecto\\EstructurasDatosProyecto.csproj|c:\\users\\ruizm\\desktop\\ingenieria en sistemas\\ii semestre 2025\\estructuras de datos\\proyecto1\\estructurasdatosproyecto\\search\\queryprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D660BE-9B73-4891-9D35-9277BCEC69B9}|EstructurasDatosProyecto\\EstructurasDatosProyecto.csproj|solutionrelative:estructurasdatosproyecto\\search\\queryprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D660BE-9B73-4891-9D35-9277BCEC69B9}|EstructurasDatosProyecto\\EstructurasDatosProyecto.csproj|c:\\users\\ruizm\\desktop\\ingenieria en sistemas\\ii semestre 2025\\estructuras de datos\\proyecto1\\estructurasdatosproyecto\\utils\\persistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D660BE-9B73-4891-9D35-9277BCEC69B9}|EstructurasDatosProyecto\\EstructurasDatosProyecto.csproj|solutionrelative:estructurasdatosproyecto\\utils\\persistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D660BE-9B73-4891-9D35-9277BCEC69B9}|EstructurasDatosProyecto\\EstructurasDatosProyecto.csproj|c:\\users\\ruizm\\desktop\\ingenieria en sistemas\\ii semestre 2025\\estructuras de datos\\proyecto1\\estructurasdatosproyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D660BE-9B73-4891-9D35-9277BCEC69B9}|EstructurasDatosProyecto\\EstructurasDatosProyecto.csproj|solutionrelative:estructurasdatosproyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D660BE-9B73-4891-9D35-9277BCEC69B9}|EstructurasDatosProyecto\\EstructurasDatosProyecto.csproj|c:\\users\\ruizm\\desktop\\ingenieria en sistemas\\ii semestre 2025\\estructuras de datos\\proyecto1\\estructurasdatosproyecto\\indexing\\invertedindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D660BE-9B73-4891-9D35-9277BCEC69B9}|EstructurasDatosProyecto\\EstructurasDatosProyecto.csproj|solutionrelative:estructurasdatosproyecto\\indexing\\invertedindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D660BE-9B73-4891-9D35-9277BCEC69B9}|EstructurasDatosProyecto\\EstructurasDatosProyecto.csproj|c:\\users\\ruizm\\desktop\\ingenieria en sistemas\\ii semestre 2025\\estructuras de datos\\proyecto1\\estructurasdatosproyecto\\indexing\\indexbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D660BE-9B73-4891-9D35-9277BCEC69B9}|EstructurasDatosProyecto\\EstructurasDatosProyecto.csproj|solutionrelative:estructurasdatosproyecto\\indexing\\indexbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D660BE-9B73-4891-9D35-9277BCEC69B9}|EstructurasDatosProyecto\\EstructurasDatosProyecto.csproj|c:\\users\\ruizm\\desktop\\ingenieria en sistemas\\ii semestre 2025\\estructuras de datos\\proyecto1\\estructurasdatosproyecto\\crawling\\webcrawler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D660BE-9B73-4891-9D35-9277BCEC69B9}|EstructurasDatosProyecto\\EstructurasDatosProyecto.csproj|solutionrelative:estructurasdatosproyecto\\crawling\\webcrawler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D660BE-9B73-4891-9D35-9277BCEC69B9}|EstructurasDatosProyecto\\EstructurasDatosProyecto.csproj|c:\\users\\ruizm\\desktop\\ingenieria en sistemas\\ii semestre 2025\\estructuras de datos\\proyecto1\\estructurasdatosproyecto\\crawling\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D660BE-9B73-4891-9D35-9277BCEC69B9}|EstructurasDatosProyecto\\EstructurasDatosProyecto.csproj|solutionrelative:estructurasdatosproyecto\\crawling\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D660BE-9B73-4891-9D35-9277BCEC69B9}|EstructurasDatosProyecto\\EstructurasDatosProyecto.csproj|c:\\users\\ruizm\\desktop\\ingenieria en sistemas\\ii semestre 2025\\estructuras de datos\\proyecto1\\estructurasdatosproyecto\\estructurasdatosproyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3D660BE-9B73-4891-9D35-9277BCEC69B9}|EstructurasDatosProyecto\\EstructurasDatosProyecto.csproj|solutionrelative:estructurasdatosproyecto\\estructurasdatosproyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchResult.cs",
+              "DocumentMoniker": "C:\\Users\\RuizM\\Desktop\\Ingenieria en Sistemas\\II Semestre 2025\\Estructuras de datos\\Proyecto1\\EstructurasDatosProyecto\\Search\\SearchResult.cs",
+              "RelativeDocumentMoniker": "EstructurasDatosProyecto\\Search\\SearchResult.cs",
+              "ToolTip": "C:\\Users\\RuizM\\Desktop\\Ingenieria en Sistemas\\II Semestre 2025\\Estructuras de datos\\Proyecto1\\EstructurasDatosProyecto\\Search\\SearchResult.cs",
+              "RelativeToolTip": "EstructurasDatosProyecto\\Search\\SearchResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T05:38:41.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueryProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\RuizM\\Desktop\\Ingenieria en Sistemas\\II Semestre 2025\\Estructuras de datos\\Proyecto1\\EstructurasDatosProyecto\\Search\\QueryProcessor.cs",
+              "RelativeDocumentMoniker": "EstructurasDatosProyecto\\Search\\QueryProcessor.cs",
+              "ToolTip": "C:\\Users\\RuizM\\Desktop\\Ingenieria en Sistemas\\II Semestre 2025\\Estructuras de datos\\Proyecto1\\EstructurasDatosProyecto\\Search\\QueryProcessor.cs",
+              "RelativeToolTip": "EstructurasDatosProyecto\\Search\\QueryProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T05:38:39.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persistence.cs",
+              "DocumentMoniker": "C:\\Users\\RuizM\\Desktop\\Ingenieria en Sistemas\\II Semestre 2025\\Estructuras de datos\\Proyecto1\\EstructurasDatosProyecto\\Utils\\Persistence.cs",
+              "RelativeDocumentMoniker": "EstructurasDatosProyecto\\Utils\\Persistence.cs",
+              "ToolTip": "C:\\Users\\RuizM\\Desktop\\Ingenieria en Sistemas\\II Semestre 2025\\Estructuras de datos\\Proyecto1\\EstructurasDatosProyecto\\Utils\\Persistence.cs",
+              "RelativeToolTip": "EstructurasDatosProyecto\\Utils\\Persistence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T05:20:50.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RuizM\\Desktop\\Ingenieria en Sistemas\\II Semestre 2025\\Estructuras de datos\\Proyecto1\\EstructurasDatosProyecto\\Program.cs",
+              "RelativeDocumentMoniker": "EstructurasDatosProyecto\\Program.cs",
+              "ToolTip": "C:\\Users\\RuizM\\Desktop\\Ingenieria en Sistemas\\II Semestre 2025\\Estructuras de datos\\Proyecto1\\EstructurasDatosProyecto\\Program.cs",
+              "RelativeToolTip": "EstructurasDatosProyecto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T05:20:31.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvertedIndex.cs",
+              "DocumentMoniker": "C:\\Users\\RuizM\\Desktop\\Ingenieria en Sistemas\\II Semestre 2025\\Estructuras de datos\\Proyecto1\\EstructurasDatosProyecto\\Indexing\\InvertedIndex.cs",
+              "RelativeDocumentMoniker": "EstructurasDatosProyecto\\Indexing\\InvertedIndex.cs",
+              "ToolTip": "C:\\Users\\RuizM\\Desktop\\Ingenieria en Sistemas\\II Semestre 2025\\Estructuras de datos\\Proyecto1\\EstructurasDatosProyecto\\Indexing\\InvertedIndex.cs",
+              "RelativeToolTip": "EstructurasDatosProyecto\\Indexing\\InvertedIndex.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T05:18:45.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IndexBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\RuizM\\Desktop\\Ingenieria en Sistemas\\II Semestre 2025\\Estructuras de datos\\Proyecto1\\EstructurasDatosProyecto\\Indexing\\IndexBuilder.cs",
+              "RelativeDocumentMoniker": "EstructurasDatosProyecto\\Indexing\\IndexBuilder.cs",
+              "ToolTip": "C:\\Users\\RuizM\\Desktop\\Ingenieria en Sistemas\\II Semestre 2025\\Estructuras de datos\\Proyecto1\\EstructurasDatosProyecto\\Indexing\\IndexBuilder.cs",
+              "RelativeToolTip": "EstructurasDatosProyecto\\Indexing\\IndexBuilder.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T05:18:26.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebCrawler.cs",
+              "DocumentMoniker": "C:\\Users\\RuizM\\Desktop\\Ingenieria en Sistemas\\II Semestre 2025\\Estructuras de datos\\Proyecto1\\EstructurasDatosProyecto\\Crawling\\WebCrawler.cs",
+              "RelativeDocumentMoniker": "EstructurasDatosProyecto\\Crawling\\WebCrawler.cs",
+              "ToolTip": "C:\\Users\\RuizM\\Desktop\\Ingenieria en Sistemas\\II Semestre 2025\\Estructuras de datos\\Proyecto1\\EstructurasDatosProyecto\\Crawling\\WebCrawler.cs",
+              "RelativeToolTip": "EstructurasDatosProyecto\\Crawling\\WebCrawler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T05:16:55.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\RuizM\\Desktop\\Ingenieria en Sistemas\\II Semestre 2025\\Estructuras de datos\\Proyecto1\\EstructurasDatosProyecto\\Crawling\\Document.cs",
+              "RelativeDocumentMoniker": "EstructurasDatosProyecto\\Crawling\\Document.cs",
+              "ToolTip": "C:\\Users\\RuizM\\Desktop\\Ingenieria en Sistemas\\II Semestre 2025\\Estructuras de datos\\Proyecto1\\EstructurasDatosProyecto\\Crawling\\Document.cs",
+              "RelativeToolTip": "EstructurasDatosProyecto\\Crawling\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T05:16:43.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EstructurasDatosProyecto",
+              "DocumentMoniker": "C:\\Users\\RuizM\\Desktop\\Ingenieria en Sistemas\\II Semestre 2025\\Estructuras de datos\\Proyecto1\\EstructurasDatosProyecto\\EstructurasDatosProyecto.csproj",
+              "RelativeDocumentMoniker": "EstructurasDatosProyecto\\EstructurasDatosProyecto.csproj",
+              "ToolTip": "C:\\Users\\RuizM\\Desktop\\Ingenieria en Sistemas\\II Semestre 2025\\Estructuras de datos\\Proyecto1\\EstructurasDatosProyecto\\EstructurasDatosProyecto.csproj",
+              "RelativeToolTip": "EstructurasDatosProyecto\\EstructurasDatosProyecto.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-15T05:16:18.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
