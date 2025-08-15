@@ -114,24 +114,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\RuizM\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\bryan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RuizM\\Desktop\\Ingenieria en Sistemas\\II Semestre 2025\\Estructuras de datos\\Proyecto1\\EstructurasDatosProyecto\\EstructurasDatosProyecto.csproj",
+      "projectUniqueName": "C:\\Users\\bryan\\RiderProjects\\ProyectoEstructuras(V2)\\EstructurasDatosProyecto\\EstructurasDatosProyecto.csproj",
       "projectName": "EstructurasDatosProyecto",
-      "projectPath": "C:\\Users\\RuizM\\Desktop\\Ingenieria en Sistemas\\II Semestre 2025\\Estructuras de datos\\Proyecto1\\EstructurasDatosProyecto\\EstructurasDatosProyecto.csproj",
-      "packagesPath": "C:\\Users\\RuizM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RuizM\\Desktop\\Ingenieria en Sistemas\\II Semestre 2025\\Estructuras de datos\\Proyecto1\\EstructurasDatosProyecto\\obj\\",
+      "projectPath": "C:\\Users\\bryan\\RiderProjects\\ProyectoEstructuras(V2)\\EstructurasDatosProyecto\\EstructurasDatosProyecto.csproj",
+      "packagesPath": "C:\\Users\\bryan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bryan\\RiderProjects\\ProyectoEstructuras(V2)\\EstructurasDatosProyecto\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\RuizM\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\bryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -139,7 +134,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -189,7 +183,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\bryan\\.dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
