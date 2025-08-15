@@ -115,4 +115,12 @@ public class ListaDobleCircular<T> //Hacemos una lista con los metodos básicos 
             actual = actual.siguiente;
         } while (actual != cabeza);
     }
+    /////////////////////////////////////////////////////////////////////////
+    public int Count()
+    {
+        if (EstaVacia()) return 0;
+        int c = 0;
+        Recorrer(d => c++);
+        return c;
+    }
 }

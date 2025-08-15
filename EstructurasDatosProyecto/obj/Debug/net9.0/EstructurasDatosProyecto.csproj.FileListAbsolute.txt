@@ -17,3 +17,12 @@ C:\Users\RuizM\Desktop\Ingenieria en Sistemas\II Semestre 2025\Estructuras de da
 C:\Users\RuizM\Desktop\Ingenieria en Sistemas\II Semestre 2025\Estructuras de datos\Proyecto1\EstructurasDatosProyecto\obj\Debug\net9.0\EstructurasDatosProyecto.pdb
 C:\Users\RuizM\Desktop\Ingenieria en Sistemas\II Semestre 2025\Estructuras de datos\Proyecto1\EstructurasDatosProyecto\obj\Debug\net9.0\EstructurasDatosProyecto.genruntimeconfig.cache
 C:\Users\RuizM\Desktop\Ingenieria en Sistemas\II Semestre 2025\Estructuras de datos\Proyecto1\EstructurasDatosProyecto\obj\Debug\net9.0\ref\EstructurasDatosProyecto.dll
+C:\Users\bryan\RiderProjects\ProyectoEstructuras(V2)\EstructurasDatosProyecto\obj\Debug\net9.0\EstructurasDatosProyecto.csproj.AssemblyReference.cache
+C:\Users\bryan\RiderProjects\ProyectoEstructuras(V2)\EstructurasDatosProyecto\obj\Debug\net9.0\EstructurasDatosProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan\RiderProjects\ProyectoEstructuras(V2)\EstructurasDatosProyecto\obj\Debug\net9.0\EstructurasDatosProyecto.AssemblyInfoInputs.cache
+C:\Users\bryan\RiderProjects\ProyectoEstructuras(V2)\EstructurasDatosProyecto\obj\Debug\net9.0\EstructurasDatosProyecto.AssemblyInfo.cs
+C:\Users\bryan\RiderProjects\ProyectoEstructuras(V2)\EstructurasDatosProyecto\obj\Debug\net9.0\EstructurasDatosProyecto.csproj.CoreCompileInputs.cache
+C:\Users\bryan\RiderProjects\ProyectoEstructuras(V2)\EstructurasDatosProyecto\obj\Debug\net9.0\EstructurasDatosProyecto.sourcelink.json
+C:\Users\bryan\RiderProjects\ProyectoEstructuras(V2)\EstructurasDatosProyecto\obj\Debug\net9.0\EstructurasDatosProyecto.dll
+C:\Users\bryan\RiderProjects\ProyectoEstructuras(V2)\EstructurasDatosProyecto\obj\Debug\net9.0\refint\EstructurasDatosProyecto.dll
+C:\Users\bryan\RiderProjects\ProyectoEstructuras(V2)\EstructurasDatosProyecto\obj\Debug\net9.0\EstructurasDatosProyecto.pdb

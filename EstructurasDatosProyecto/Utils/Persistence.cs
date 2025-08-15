@@ -1,7 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
-using Newtonsoft.Json;
+using System.Text;
+using System.Text.RegularExpressions;
 using EstructurasDatosProyecto.Models;
 using EstructurasDatosProyecto.Crawling;
 
@@ -9,39 +9,57 @@ namespace EstructurasDatosProyecto.Utils;
 
 public class Persistence
 {
-    // Carga el mapa de documentos desde un archivo JSON (docmap.json).
-    public static List<Document> LoadDocMap(string filePath)
+    // Guarda documentos en JSON usando ListaDobleCircular
+    public static void SaveDocMap(string filePath, ListaDobleCircular<Document> docs)
     {
-        if (!File.Exists(filePath))
+        using (StreamWriter sw = new StreamWriter(filePath, false, Encoding.UTF8))
         {
-            Console.WriteLine($"⚠ No se encontró {filePath}, devolviendo lista vacía.");
-            return new List<Document>();
+            sw.WriteLine("[");
+            bool first = true;
+
+            docs.Recorrer(doc =>
+            {
+                if (!first) sw.WriteLine(",");
+                first = false;
+                sw.Write(SerializeDocument(doc));
+            });
+
+            sw.WriteLine();
+            sw.WriteLine("]");
         }
+    }
+
+    // Carga documentos desde JSON en ListaDobleCircular
+    public static void LoadDocMap(string filePath, ListaDobleCircular<Document> docs)
+    {
+        if (!File.Exists(filePath)) return;
 
         string json = File.ReadAllText(filePath);
-        return JsonConvert.DeserializeObject<List<Document>>(json) ?? new List<Document>();
+        var matches = Regex.Matches(json, @"\{[^\}]*\}");
+        foreach (Match m in matches)
+        {
+            Document doc = ParseDocument(m.Value);
+            docs.Insertar(doc);
+        }
     }
-    
-    // Guarda el índice invertido en formato JSON.
-    public static void SaveIndex(string filePath, Dictionary<string, TermInfo> index)
+
+    private static string SerializeDocument(Document doc)
     {
-        // Convierte a JSON con identación
-        string json = JsonConvert.SerializeObject(index, Formatting.Indented);
-
-        File.WriteAllText(filePath, json);
-
-        Console.WriteLine($"Índice guardado en: {filePath}");
+        return $"  {{ \"DocId\": {doc.DocId}, \"Url\": \"{doc.Url}\", \"FileName\": \"{doc.FileName}\" }}";
     }
-    
-    // Carga un índice invertido desde archivo JSON.
-    public static Dictionary<string, TermInfo> LoadIndex(string filePath)
+
+    private static Document ParseDocument(string json)
     {
-        if (!File.Exists(filePath))
-            throw new FileNotFoundException($"No se encontró el archivo de índice: {filePath}");
+        Document doc = new Document();
 
-        string json = File.ReadAllText(filePath);
-        var index = JsonConvert.DeserializeObject<Dictionary<string, TermInfo>>(json);
+        var idMatch = Regex.Match(json, @"""DocId"":\s*(\d+)");
+        var urlMatch = Regex.Match(json, @"""Url"":\s*""([^""]+)""");
+        var fileMatch = Regex.Match(json, @"""FileName"":\s*""([^""]+)""");
 
-        return index ?? new Dictionary<string, TermInfo>();
+        if (idMatch.Success) doc.DocId = int.Parse(idMatch.Groups[1].Value);
+        if (urlMatch.Success) doc.Url = urlMatch.Groups[1].Value;
+        if (fileMatch.Success) doc.FileName = fileMatch.Groups[1].Value;
+
+        return doc;
     }
 }
