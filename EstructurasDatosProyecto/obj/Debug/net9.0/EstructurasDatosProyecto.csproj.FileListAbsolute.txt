@@ -26,3 +26,13 @@ C:\Users\bryan\RiderProjects\ProyectoEstructuras(V2)\EstructurasDatosProyecto\ob
 C:\Users\bryan\RiderProjects\ProyectoEstructuras(V2)\EstructurasDatosProyecto\obj\Debug\net9.0\EstructurasDatosProyecto.dll
 C:\Users\bryan\RiderProjects\ProyectoEstructuras(V2)\EstructurasDatosProyecto\obj\Debug\net9.0\refint\EstructurasDatosProyecto.dll
 C:\Users\bryan\RiderProjects\ProyectoEstructuras(V2)\EstructurasDatosProyecto\obj\Debug\net9.0\EstructurasDatosProyecto.pdb
+C:\Users\bryan\RiderProjects\ProyectoEstructuras(V2)\EstructurasDatosProyecto\bin\Debug\net9.0\EstructurasDatosProyecto.exe
+C:\Users\bryan\RiderProjects\ProyectoEstructuras(V2)\EstructurasDatosProyecto\bin\Debug\net9.0\EstructurasDatosProyecto.deps.json
+C:\Users\bryan\RiderProjects\ProyectoEstructuras(V2)\EstructurasDatosProyecto\bin\Debug\net9.0\EstructurasDatosProyecto.runtimeconfig.json
+C:\Users\bryan\RiderProjects\ProyectoEstructuras(V2)\EstructurasDatosProyecto\bin\Debug\net9.0\EstructurasDatosProyecto.dll
+C:\Users\bryan\RiderProjects\ProyectoEstructuras(V2)\EstructurasDatosProyecto\bin\Debug\net9.0\EstructurasDatosProyecto.pdb
+C:\Users\bryan\RiderProjects\ProyectoEstructuras(V2)\EstructurasDatosProyecto\bin\Debug\net9.0\HtmlAgilityPack.dll
+C:\Users\bryan\RiderProjects\ProyectoEstructuras(V2)\EstructurasDatosProyecto\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\bryan\RiderProjects\ProyectoEstructuras(V2)\EstructurasDatosProyecto\obj\Debug\net9.0\Estructu.ABE3DDAF.Up2Date
+C:\Users\bryan\RiderProjects\ProyectoEstructuras(V2)\EstructurasDatosProyecto\obj\Debug\net9.0\EstructurasDatosProyecto.genruntimeconfig.cache
+C:\Users\bryan\RiderProjects\ProyectoEstructuras(V2)\EstructurasDatosProyecto\obj\Debug\net9.0\ref\EstructurasDatosProyecto.dll

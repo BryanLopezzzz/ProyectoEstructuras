@@ -123,4 +123,16 @@ public class ListaDobleCircular<T> //Hacemos una lista con los metodos básicos 
         Recorrer(d => c++);
         return c;
     }
+    
+    public async Task RecorrerAsync(Func<T, Task> accion)
+    {
+        if (cabeza == null) return;
+
+        Nodo<T> actual = cabeza;
+        do
+        {
+            await accion(actual.dato);
+            actual = actual.siguiente;
+        } while (actual != cabeza);
+    }
 }

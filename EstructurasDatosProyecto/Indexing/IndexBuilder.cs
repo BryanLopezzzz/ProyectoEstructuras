@@ -11,9 +11,9 @@ public class IndexBuilder
 
         docMap.Recorrer(doc =>
         {
+            // Recuperar archivo
             string filePath = Path.Combine(docsFolder, doc.FileName);
-            if (!File.Exists(filePath))
-                return;
+            if (!File.Exists(filePath)) return;
 
             string[] tokens = Tokenizer.TokenizeFile(filePath);
 
