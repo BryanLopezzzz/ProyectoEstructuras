@@ -17,9 +17,9 @@ public class IndexBuilder
 
             string[] tokens = Tokenizer.TokenizeFile(filePath);
 
-            foreach (var token in tokens)
+            for (int i = 0; i < tokens.Length; i++)
             {
-                index.AddTerm(token, doc.DocId);
+                index.AddTerm(tokens[i], doc.DocId);
             }
         });
 

@@ -17,6 +17,8 @@ namespace EstructurasDatosProyecto.Calculos
             double productoPunto = vectorA.ProductoPunto(vectorB);
             double magnitudA = vectorA.Magnitud();
             double magnitudB = vectorB.Magnitud();
+
+        
           
             return productoPunto / (magnitudA * magnitudB);
         }

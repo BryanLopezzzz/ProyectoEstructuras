@@ -5,9 +5,9 @@ public class TermInfo
     public string Term { get; set; }
     public List<Posting> Postings { get; set; } = new List<Posting>();
 
-    // DF = Document Frequency
+    // DF = document frequency
     public int Df => Postings.Count;
 
-    // Frecuencia total
+    // frecuencia total
     public int CollectionFreq => Postings.Sum(p => p.Tf);
 }
