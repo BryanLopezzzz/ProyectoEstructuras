@@ -5,7 +5,7 @@ using EstructurasDatosProyecto.Models;
 
 public class IndexBuilder
 {
-    public InvertedIndex BuildIndex(string docsFolder, ListaDobleCircular<Document> docMap)
+    public InvertedIndex BuildIndex(string docsFolder, ListaDobleCircular<Documento> docMap)
     {
         var index = new InvertedIndex();
 

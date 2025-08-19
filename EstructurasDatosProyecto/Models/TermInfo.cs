@@ -179,7 +179,7 @@
         public override bool Equals(object obj)
         {
             if (obj == null || !(obj is TermInfo)) return false; // Validar tipo y null
-            return EsIgual((TermInfo)obj);              // Reutilizar método EsIgual para evitar duplicación
+            return EsIgual((TermInfo)obj);              // Reutilizar método esIgual para evitar duplicación
         }
 
         // Genera código hash basado en el término para uso en estructuras hash

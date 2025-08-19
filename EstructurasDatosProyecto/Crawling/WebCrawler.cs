@@ -119,14 +119,14 @@ namespace EstructurasDatosProyecto.Crawling
             string rutaArchivo = Path.Combine(_outputFolder, $"{safeName}.txt");
 
             Documento documento = new Documento(rutaArchivo);
-            documento.EstablecerID("WEB_" + safeName);
+            documento.setId("WEB_" + safeName);
 
             // Normalizar texto usando el método original
             string normalizedText = NormalizeText(contenidoHtml);
-            documento.EstablecerContenido(normalizedText);
+            documento.setContenido(normalizedText);
 
             // Procesar contenido para generar tokens (esto aplicará nuestro filtrado de stopwords)
-            documento.ProcesarContenido();
+            documento.procesarContenido();
 
             return documento;
         }
@@ -136,18 +136,18 @@ namespace EstructurasDatosProyecto.Crawling
         {
             try
             {
-                string nombreArchivo = documento.ObtenerID() + ".txt";
+                string nombreArchivo = documento.getId() + ".txt";
                 string rutaCompleta = Path.Combine(_outputFolder, nombreArchivo);
 
                 // Reconstruir texto desde tokens procesados
-                string[] tokens = documento.ObtenerTokens();
+                string[] tokens = documento.getTokens();
                 string contenidoFinal = string.Join(" ", tokens);
 
                 File.WriteAllText(rutaCompleta, contenidoFinal);
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"Error guardando documento {documento.ObtenerID()}: {ex.Message}");
+                Console.WriteLine($"Error guardando documento {documento.getId()}: {ex.Message}");
             }
         }
 

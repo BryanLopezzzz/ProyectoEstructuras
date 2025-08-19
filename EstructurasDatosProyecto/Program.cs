@@ -32,13 +32,13 @@ class Program
         }
 
         // Cargar documentos directamente desde la carpeta "Documentos"
-        var docMap = new ListaDobleCircular<Document>();
+        var docMap = new ListaDobleCircular<Documento>();
         string[] archivos = Directory.GetFiles(outputFolder, "*.txt");
 
         int id = 1;
         foreach (var archivo in archivos)
         {
-            docMap.Insertar(new Document
+            docMap.Insertar(new Documento
             {
                 DocId = id++,
                 Url = "Archivo local",
