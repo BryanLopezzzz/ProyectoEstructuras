@@ -42,5 +42,4 @@ namespace EstructurasDatosProyecto.Models
             primerRecorrido = true;
         }
     }
-
 }

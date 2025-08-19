@@ -100,4 +100,6 @@ public class ListaDobleCircular<T>
     {
         return new Iterator<T>(cabeza);
     }
+
+
 }

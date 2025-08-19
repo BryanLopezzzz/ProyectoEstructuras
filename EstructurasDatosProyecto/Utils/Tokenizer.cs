@@ -28,7 +28,8 @@ public class Tokenizer
         }
 
         string[] tokens = new string[count];
-        for (int i = 0; i < count; i++) tokens[i] = result[i];
+        for (int i = 0; i < count; i++) 
+            tokens[i] = result[i];
         return tokens;
     }
 
