@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EstructurasDatosProyecto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f4d459577d54502eab0bfc264cb77e6503b5b56")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34e2b1ded373cd771f51966d3f16b3369f512eb4")]
 [assembly: System.Reflection.AssemblyProductAttribute("EstructurasDatosProyecto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EstructurasDatosProyecto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
